@@ -18,4 +18,4 @@ ShopHappy is a web application that helps a shopper keep track of items they wan
 6. thymeleaf
 
 ## What I'll Have to Learn
-Implementing a database that allows data to be added and deleted; using bootstrap to add structure and style to the application.
+Implementing a database that allows data to be added and deleted; search the database: search functionality; using bootstrap to add structure and style to the application.
